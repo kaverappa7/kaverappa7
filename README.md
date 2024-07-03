@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaverappa7
+- 👋 Hi, I’m @kaverappa
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning python 
 - 📫 How to reach me kaverappakademada@gmail
